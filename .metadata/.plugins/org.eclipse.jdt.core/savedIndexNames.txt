@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Lex\Documents\Spring Boot Projects\os\.metadata\.plugins\org.eclipse.jdt.core
